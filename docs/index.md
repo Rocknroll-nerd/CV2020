@@ -58,8 +58,9 @@ author: Ирина Князева
       <td rowspan="2">Теория</td>
       <td><a href="week01/01-1">Обработка изображений: масштабирование</a></td>
       <td rowspan="2">
-        <a href="https://www.vision.rwth-aachen.de/media/course/SS/2019/computer-vision/cv19-part02-image-processing.pdf">🖥️</a> <a href="https://youtu.be/hpqrDUuk7HY">🎥</a>
-        <a href="https://youtu.be/5xdbJ7z4Nrc">🎥</a>
+        <a href="https://www.vision.rwth-aachen.de/media/course/SS/2019/computer-vision/cv19-part02-image-processing.pdf"> J.Redmon Lec 04🖥️</a>
+        <a href="https://www.vision.rwth-aachen.de/media/course/SS/2019/computer-vision/cv19-part02-image-processing.pdf">RWTH 🖥️</a> <a href="https://youtu.be/hpqrDUuk7HY">Redmon Lec03🎥</a>
+        <a href="https://youtu.be/5xdbJ7z4Nrc">Redmon Lec04🎥</a>
       </td>
     </tr>
     <tr><td><a href="week01/01-2">  Фильтрация, свертка, корреляция</a></td></tr>
